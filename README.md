@@ -24,6 +24,10 @@ This repository contains Data Structures and Algorithms programs implemented in 
 
 ### Arrays
 - Largest Element in Array
+- Smallest Element
+- Array Sum
+- Reverse Array
+- Second Largest Element
 
 ## Goal
 
