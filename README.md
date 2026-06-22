@@ -29,6 +29,14 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Reverse Array
 - Second Largest Element
 
+### Strings
+
+- Reverse String
+- Palindrome String
+- Count Vowels
+- Count Words
+- Anagram Check
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
