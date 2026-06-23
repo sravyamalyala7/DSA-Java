@@ -37,10 +37,17 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Count Words
 - Anagram Check
 
+### Searching
+
+- Linear Search
+- Binary Search
+- Count Occurrences of an Element
+- Find First Occurrence
+ 
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
 
 ## Author 
 Sravya Malyala
- B.Tech CSE (AI & ML)
+
