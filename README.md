@@ -44,6 +44,12 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Count Occurrences of an Element
 - Find First Occurrence
  
+ ### Sorting
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Descending Order Sort
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
