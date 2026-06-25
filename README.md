@@ -50,6 +50,14 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Insertion Sort
 - Descending Order Sort
 
+### Recursion
+- Print Numbers
+- Factorial Using Recursion
+- Fibonacci Using Recursion
+- Sum of Natural Numbers
+- Power of a Number
+- Reverse String Using Recursion
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
