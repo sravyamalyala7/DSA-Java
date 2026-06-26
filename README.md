@@ -58,6 +58,10 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Power of a Number
 - Reverse String Using Recursion
 
+### Linked Lists
+- Singly Linked List (Create and Display)
+- Search an Element in a Linked List
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
