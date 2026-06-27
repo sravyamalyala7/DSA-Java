@@ -61,6 +61,11 @@ This repository contains Data Structures and Algorithms programs implemented in 
 ### Linked Lists
 - Singly Linked List (Create and Display)
 - Search an Element in a Linked List
+- Insert at Beginning
+- Insert at End
+- Count Number of Nodes
+- Delete a Node
+- Reverse a Linked List
 
 ## Goal
 
