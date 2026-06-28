@@ -67,6 +67,13 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Delete a Node
 - Reverse a Linked List
 
+### Stacks
+- Stack Implementation Using Array
+- Push and Pop Operations
+- Peek Operation
+- Check if Stack is Empty
+- Reverse a String Using Stack
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
