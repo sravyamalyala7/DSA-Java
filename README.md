@@ -74,6 +74,10 @@ This repository contains Data Structures and Algorithms programs implemented in 
 - Check if Stack is Empty
 - Reverse a String Using Stack
 
+### Queues
+- Queue Implementation Using Array
+- Enqueue and Dequeue Operations
+
 ## Goal
 
 To improve problem-solving skills, strengthen DSA fundamentals, and prepare for coding interviews and software engineering roles.
