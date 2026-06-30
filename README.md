@@ -77,6 +77,9 @@ This repository contains Data Structures and Algorithms programs implemented in 
 ### Queues
 - Queue Implementation Using Array
 - Enqueue and Dequeue Operations
+- Peek Front Element
+- Check if Queue is Empty
+- Queue Using Java Collection Framework
 
 ## Goal
 
